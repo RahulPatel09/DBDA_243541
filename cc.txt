@@ -1,0 +1,4 @@
+Cloud Computing provide 3 services mainly :-
+  Iaas
+  Paas
+  Saas
